@@ -72,7 +72,7 @@ I build CLI tools, terminal workflows, and web apps — with an interest in home
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/merkksgit/tmux-pane-preview">tmux-pane-preview</a></h3>
-      <p>Lightweight tmux plugin for instant viewing of terminal content in Neovim — enhanced searching, copying, and navigation.</p>
+      <p>Lightweight tmux plugin for instant viewing of terminal content in Neovim for enhanced searching, copying, and navigation.</p>
       <img src="https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=white">
     </td>
     <td width="50%">
@@ -97,17 +97,7 @@ I build CLI tools, terminal workflows, and web apps — with an interest in home
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
-
-
 ## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=merkksgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merkksgit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=merkksgit&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="520">
 
