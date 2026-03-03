@@ -47,9 +47,6 @@ I build CLI tools, terminal workflows, and web apps — with an interest in home
   </tr>
 </table>
 
-<div align="center">
-  <video src="images/NERTYPE_INTRO.mp4" width="100%" controls></video>
-</div>
 
 
 ## CLI Tools & Projects
