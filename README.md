@@ -18,21 +18,27 @@ I build CLI tools, terminal workflows, and web apps — with an interest in home
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="100px">
       <a href="https://juoruankka.com">
         <img src="images/juoruankka.png" alt="Juoruankka" width="80">
-        <h3>Juoruankka</h3>
       </a>
+    </td>
+    <td>
+      <h3><a href="https://juoruankka.com">Juoruankka</a></h3>
       <p>A free, ad-free RSS news reader that brings all your favorite news sources into one place. Features category filtering, cross-device sync, community engagement, and automatic feed updates.</p>
       <a href="https://juoruankka.com">
         <img src="https://img.shields.io/badge/Visit-juoruankka.com-1a73e8?style=for-the-badge&logo=rss&logoColor=white" alt="Juoruankka">
       </a>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" width="100px">
       <a href="https://nerdtypegame.org">
         <img src="images/nerdtypegame.png" alt="NerdType" width="80">
-        <h3>NerdType</h3>
       </a>
+    </td>
+    <td>
+      <h3><a href="https://nerdtypegame.org">NerdType</a></h3>
       <p>A typing practice game with multiple game modes, leaderboards, achievements, and extensive customization. Supports English, Finnish, Swedish, and programming word sets.</p>
       <a href="https://nerdtypegame.org">
         <img src="https://img.shields.io/badge/Visit-nerdtypegame.org-7c3aed?style=for-the-badge&logo=keyboard&logoColor=white" alt="NerdType">
@@ -40,6 +46,10 @@ I build CLI tools, terminal workflows, and web apps — with an interest in home
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <video src="images/NERTYPE_INTRO.mp4" width="100%" controls></video>
+</div>
 
 
 ## CLI Tools & Projects
