@@ -83,6 +83,9 @@ I build CLI tools, terminal workflows, and web apps — with an interest in home
       <img src="https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=white">
     </td>
     <td width="50%">
+      <h3><a href="https://github.com/merkksgit/juoruankka-tui">juoruankka-tui</a></h3>
+      <p>Terminal UI client for Juoruankka RSS aggregator with vim-style navigation, article search, and browser integration.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
     </td>
   </tr>
 </table>
