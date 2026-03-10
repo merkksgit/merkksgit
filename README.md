@@ -1,9 +1,8 @@
-<div align="center">
+<div align="left" width="100%">
 
 # Hey, I'm Erkka
 
-**Business Information Systems student @ Oulu University of Applied Sciences (Oamk)**
-<br>
+**Business Information Systems student @ Oulu University of Applied Sciences (Oamk),**
 Finland
 
 I build CLI tools, terminal workflows, and web apps — with an interest in homelabs and self-hosting.
@@ -12,7 +11,6 @@ I build CLI tools, terminal workflows, and web apps — with an interest in home
 [![GitHub stars](https://img.shields.io/github/stars/merkksgit?style=flat&logo=github&label=Stars)](https://github.com/merkksgit)
 
 </div>
-
 
 ## My Websites
 
@@ -46,8 +44,6 @@ I build CLI tools, terminal workflows, and web apps — with an interest in home
     </td>
   </tr>
 </table>
-
-
 
 ## CLI Tools & Projects
 
@@ -90,7 +86,6 @@ I build CLI tools, terminal workflows, and web apps — with an interest in home
   </tr>
 </table>
 
-
 ## Tech Stack
 
 <div align="center">
@@ -112,7 +107,6 @@ I build CLI tools, terminal workflows, and web apps — with an interest in home
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=merkksgit&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="520">
 
 </div>
-
 
 <div align="center">
   <i>Feel free to check out my repos and drop a ⭐ if you find something useful!</i>
