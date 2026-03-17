@@ -84,6 +84,13 @@ I build CLI tools, terminal workflows, and web apps — with an interest in home
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/merkksgit/suomitv">suomitv</a></h3>
+      <p>Finnish IPTV viewer with a TV guide, running in Docker</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+    </td>
+   </tr>
 </table>
 
 ## Tech Stack
